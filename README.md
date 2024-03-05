@@ -5,7 +5,7 @@ A universal authentication jacker for OAuth, OpenID, and SAML.
 Problems to solve:
 
 - [ ] OAuth
-    [ ] How to get the user's credentials with Google OAuth + PKCE
+  - [ ] How to get the user's credentials with Google OAuth + PKCE
 - [ ] OpenID
 - [ ] SAML
 
